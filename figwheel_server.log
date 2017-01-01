@@ -3871,3 +3871,2416 @@ Compiling target/figwheel_temp/dev/figwheel/connect.cljs
 Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
 notifying browser that file changed:  out/d3/rotating_voronoi.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.441 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.394 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.607 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.648 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.327 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.51 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.114 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.647 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.036 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.492 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.523 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.641 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.591 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.323 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.884 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/flocks.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/flocks.cljs to resources/public/js/d3/flocks.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/flocks.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.47 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/flocks.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/flocks.cljs to resources/public/js/d3/flocks.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/flocks.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.103 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/flocks.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/flocks.cljs to resources/public/js/d3/flocks.cljs
+notifying browser that file changed:  out/d3/flocks.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.791 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/flocks.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.812 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.962 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.155 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.138 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.141 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.747 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.351 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/rad at line 21 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/rad at line 21 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/rad at line 22 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/rad at line 22 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.079 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs, line 69, column 25
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.91 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs, line 69, column 25
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.829 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/prob.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/prob.cljs to resources/public/js/d3/prob.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/prob.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.339 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/prob.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/prob.cljs to resources/public/js/d3/prob.cljs
+notifying browser that file changed:  out/d3/prob.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.883 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/prob.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.78 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.995 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.474 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.569 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+WARNING: Wrong number of args (0) passed to d3.color-lovers/get-json at line 9 src/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.881 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.832 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.964 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+WARNING: Use of undeclared Var d3.color-lovers/url at line 14 src/d3/color_lovers.cljs
+WARNING: Use of undeclared Var d3.color-lovers/success at line 15 src/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.389 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.453 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.69 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/color_lovers.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.111 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.448 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.482 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.42 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/palettes.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs to resources/public/js/d3/palettes.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/palettes.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.398 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs
+Compiling src/d3/palettes.cljs
+WARNING: Use of undeclared Var d3.palettes/palettes at line 26 src/d3/palettes.cljs
+WARNING: Use of undeclared Var d3.palettes/palettes at line 27 src/d3/palettes.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs to resources/public/js/d3/palettes.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/palettes.js
+notifying browser that file changed:  out/d3/color_lovers.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.221 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/palettes.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs to resources/public/js/d3/palettes.cljs
+notifying browser that file changed:  out/d3/palettes.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.754 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.66 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs to resources/public/js/d3/palettes.cljs
+notifying browser that file changed:  out/d3/palettes.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/palettes.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.332 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/prob.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/prob.cljs to resources/public/js/d3/prob.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/prob.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.504 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.713 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/prob.cljs
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.prob/! at line 26 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.prob/! at line 27 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.prob/! at line 28 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.prob/! at line 29 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/prob.cljs to resources/public/js/d3/prob.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/prob.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.466 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.388 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/prob.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/prob.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.137 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.02 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.182 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.306 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/palettes.cljs to resources/public/js/d3/palettes.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/palettes.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.823 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.664 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/rotating_voronoi.cljs to resources/public/js/d3/rotating_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.598 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.371 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.828 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.499 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.393 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/r at line 143 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/r at line 144 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/launch-pt at line 147 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/τ at line 147 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/τ at line 147 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/n at line 147 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.863 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/cur-θ at line 146 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/cur-θ at line 147 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 6.18 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/cur-θ at line 146 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/cur-θ at line 147 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.905 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/cur-θ at line 146 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/cur-θ at line 147 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.543 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.124 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.975 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.556 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.364 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.788 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.009 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.13 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.138 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.315 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.921 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.133 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.505 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.353 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.91 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.677 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.949 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.131 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.341 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.394 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.079 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.437 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.704 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.734 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.475 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.668 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.551 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.148 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.546 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.454 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.952 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/three-polate at line 181 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/resample at line 186 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/three-polate at line 188 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.102 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.953 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.058 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.175 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.362 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.665 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.784 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.458 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.813 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.339 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.931 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.657 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.546 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.546 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.448 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.138 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.227 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.297 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.571 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.95 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.441 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.198 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.053 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.13 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.642 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.981 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.776 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.373 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.463 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.58 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.434 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.961 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.526 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.971 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.562 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.826 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.307 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.022 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.509 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.667 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.386 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.329 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.647 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.769 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.45 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.486 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.361 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.488 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.77 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.814 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.755 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.353 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.498 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.352 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.629 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.563 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.266 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.615 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.241 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.342 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.329 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.955 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.504 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.493 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.579 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.826 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.54 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.4 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.586 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.531 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.065 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.046 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.675 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.913 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/x at line 287 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/x at line 287 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.928 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.087 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.058 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.052 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.779 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.45 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.383 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.515 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.239 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.614 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.049 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.539 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.459 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.556 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.485 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.608 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.737 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.402 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljs to resources/public/js/generics/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/generics/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.052 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljs to resources/public/js/generics/core.cljs
+notifying browser that file changed:  out/generics/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.523 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.886 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.779 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.032 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.375 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+baz [3 2 1]
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.789 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+WARNING: get-method already refers to: #'clojure.core/get-method in namespace: generics.core, being replaced by: #'generics.core/get-method
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.853 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+WARNING: get-method already refers to: #'clojure.core/get-method in namespace: generics.core, being replaced by: #'generics.core/get-method
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.189 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/rotating_voronoi.cljs
+Compiling src/generics/core.cljc
+Compiling src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/d3/rotating_voronoi.js
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.509 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+WARNING: get-method already refers to: #'clojure.core/get-method in namespace: generics.core, being replaced by: #'generics.core/get-method
+Compiling src/generics/core.cljc
+WARNING: get-method already refers to: cljs.core/get-method being replaced by: generics.core/get-method at line 29 src/generics/core.cljc
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.787 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+WARNING: get-method already refers to: #'clojure.core/get-method in namespace: generics.core, being replaced by: #'generics.core/get-method
+Compiling src/generics/core.cljc
+WARNING: get-method already refers to: cljs.core/get-method being replaced by: generics.core/get-method at line 30 src/generics/core.cljc
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.773 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+WARNING: get-method already refers to: #'clojure.core/get-method in namespace: generics.core, being replaced by: #'generics.core/get-method
+Compiling src/generics/core.cljc
+WARNING: get-method already refers to: cljs.core/get-method being replaced by: generics.core/get-method at line 29 src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.583 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.986 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/foo-multi at line 377 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/foo-multi at line 377 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.11 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.653 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var generics.core/dispatch-fn at line 377 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.529 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.758 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.903 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var generics.core/dispatch-fn at line 377 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.303 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.766 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.523 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.056 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.729 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.137 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.172 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.761 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.289 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.833 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: failed compiling file:src/d3/moving_voronoi.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.compiler$compile_file$fn__3274.invoke (compiler.cljc:1369)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1336)
+    cljs.closure$compile_file.invoke (closure.clj:437)
+    cljs.closure$eval5039$fn__5040.invoke (closure.clj:504)
+    cljs.closure$eval4975$fn__4976$G__4964__4983.invoke (closure.clj:394)
+    cljs.closure$compile_sources$iter__5159__5163$fn__5164.invoke (closure.clj:827)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$dorun.invoke (core.clj:3010)
+    clojure.core$doall.invoke (core.clj:3025)
+    cljs.closure$compile_sources.invoke (closure.clj:823)
+    cljs.closure$build.invoke (closure.clj:1895)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__17260.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__17587.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__17663.invoke (clj_reloading.clj:110)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__17709.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval17724$figwheel_start_and_end_messages__17727$fn__17729.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__17754$fn__17755.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__13651$fn__13652.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__13651.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.457 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/generics/core.cljc
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/generics/core.cljc to resources/public/js/generics/core.cljc
+notifying browser that file changed:  out/generics/core.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.295 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/multis.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/multis.cljs to resources/public/js/d3/multis.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/multis.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/multis.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/multis.cljs to resources/public/js/d3/multis.cljs
+notifying browser that file changed:  out/d3/multis.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.466 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.294 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/flower.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/d3-in-action/src/d3/flower.cljs to resources/public/js/d3/flower.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/flower.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.572 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.986 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.404 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.78 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.267 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.139 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.022 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.109 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.87 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.628 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.521 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.943 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.516 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.48 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.02 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.009 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.277 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.801 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.147 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+WARNING: Use of undeclared Var d3.one/xs at line 137 /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.321 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.959 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.236 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.78 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.049 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.089 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.767 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.683 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.232 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.868 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.434 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.683 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.551 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.795 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.493 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.625 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.698 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.676 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.581 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.728 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.501 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.535 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.768 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.112 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.653 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.658 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.935 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 6.523 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/color_lovers.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/palettes.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/prob.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 9.551 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.573 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/palettes.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.486 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.864 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.37 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/color_lovers.cljs
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/palettes.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.758 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling src/d3/color_lovers.cljs
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/palettes.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/color_lovers.cljs to resources/public/js/d3/color_lovers.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/palettes.cljs to resources/public/js/d3/palettes.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/color_lovers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.183 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.196 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.7 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.453 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.529 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.134 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.903 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.486 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.841 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.069 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.468 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.625 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.652 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.425 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.532 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.219 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.44 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.739 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.169 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.172 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.59 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.926 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/one.cljs to resources/public/js/d3/one.cljs
+notifying browser that file changed:  out/d3/one.js
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.13 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/points at line 94 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/>> at line 96 src/d3/moving_voronoi.cljs
+WARNING: Use of undeclared Var d3.moving-voronoi/>> at line 100 src/d3/moving_voronoi.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/d3-in-action/src/d3/moving_voronoi.cljs to resources/public/js/d3/moving_voronoi.cljs
+notifying browser that file changed:  out/d3/moving_voronoi.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 11.152 seconds.[0m

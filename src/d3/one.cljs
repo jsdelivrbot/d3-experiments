@@ -26,6 +26,37 @@
       [:append "svg"]
       (u/attrs {:width (or w 500) :height (or h 500)})))
 
+(comment
+  (let [svg (svg)]
+    (>> svg
+        [:append "rect"]
+        (u/attrs {:x 65 :y 65 :width 150 :height 80})
+        (u/styles {:fill "red"}))
+    (>> svg
+      [:append "rect"]
+      (u/attrs {:x 65 :y 65 :width 150 :height 80 :transform "translate(140 105) scale(0.5,0.5) translate(-140 -105)"})
+      (u/styles {:fill "blue"}))))
+
+(comment
+  "shrink polygon exp"
+  (.centroid (js/d3.geom.polygon (clj->js [[10 10] [100 10] [100 100] [10 100]])))
+
+  (let [svg (svg)
+        points [[10 10] [100 10] [100 100] [10 100]]
+        [cx cy :as centroid] (js->clj (.centroid (js/d3.geom.polygon (clj->js points))))
+        line (.. js/d3 -svg line (interpolate "basis-closed"))
+        _ (println (line (clj->js points)))
+        pd (line (clj->js points))]
+
+    (>> svg
+        [:append "path"]
+        (u/attrs {:d pd})
+        (u/styles {:fill "red"}))
+    (>> svg
+        [:append "path"]
+        (u/attrs {:d pd :transform (str "translate("cx " " cy") scale(0.5,0.5) translate(" (- cx) " " (- cy) ")")})
+        (u/styles {:fill "blue"}))))
+
 (defn moving-circle1 []
   (>> (svg)
       [:append "circle"]
@@ -45,7 +76,7 @@
                (.linear)
                (.domain #js [0 10])
                (.range #js ["blue" "red"]))]
-  [(ramp 10) (ramp 5) (.invert ramp "blue")])
+  [(ramp 10) (ramp 5) (.invert ramp "#800080")])
 
 ;; BINNING: CATEGORIZING DATA
 
@@ -132,6 +163,9 @@
         p2 (pie-chart (js> (vec (shuffle data))))
         new-arc (.. (u/arc) (outerRadius "100") (innerRadius "70"))
         color-scale (.. u/scale linear (domain (js> (bounds data))) (range #js ["blue" "red"]))
+        arc-tween (fn [a]
+                    (let [i (js/d3.interpolate (js> {:value (.-previous a)}) a)]
+                      (fn [t] (u/arc (i t)))))
         svg (svg)]
     (>> svg
         [:append "g"]
@@ -149,12 +183,11 @@
         [:selectAll "path"]
         [:data p2]
         [:transition]
-        [:delay 1000]
         [:duration 1000]
-        [:attr ["d" new-arc]]
+        [:attrTween ["d" arc-tween]]
         [:style ["fill" (fn [d] (color-scale (.-data d)))]])))
 
-#_(pie [2 2 6 7])
+(comment (pie [2 10 6 7]))
 
 ;; word cloud --------------------------------------------
 
@@ -343,7 +376,8 @@
         path (>> svg [:selectAll "path"])
         voronoi (.clipExtent (js/d3.geom.voronoi) (js> [[0 0] [width height]]))
         points (repeatedly n-polygon (fn [] [(rand-int width) (rand-int height)]))
-        paths-data (mapv (fn [d] (when d (str "M" (.join d "L") "Z")))
+        paths-data (mapv (fn [d]
+                           (when d (str "M" (.join d "L") "Z")))
                          (voronoi (js> points)))
         path (>> path
                  [:data [(js> paths-data)]])]

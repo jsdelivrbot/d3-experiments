@@ -53,9 +53,7 @@
                  (data get-points)
                  (enter)
                  (append "path")
-                 )
-
-        path (.each path (fn [_ i] (this-as p ((nth styles-vec i) (js/d3.select p)))))
+                 (each (fn [_ i] (this-as p ((nth styles-vec i) (js/d3.select p))))))
 
         three-polate (fn [[[x0 y0] [x1 y1]]]
                        [[x0 y0]
@@ -97,7 +95,7 @@
                :data          data
                :default-style (styles> {:stroke "white" :stroke-width "2px" :fill #(cs (rand* 0 6))})})))
 
-
+(comment (ex1))
 
 (defn rand-rot [& _]
   (let [cx (rand* -400 400)
@@ -117,14 +115,14 @@
                :data          data2
                :default-style (styles> {:stroke "white" :stroke-width "2px" :fill #(cs (rand* 0 6))})})))
 
+(comment (ex2))
+
 (defn flower [{:keys [x y r depth petals speed]}]
   (let [rad-inc (/ r depth)]
-    (cons
-      [x y (rand* 0 rad-inc) (apply rand* petals) (apply rand* speed)]
-      (map
+    (map
       (fn [[a b]]
         [x y (rand* a b) (apply rand* petals) (apply rand* speed)])
-      (partition 2 1 (reductions + rad-inc (repeat depth rad-inc)))))))
+      (partition 2 1 (reductions + 0 (repeat depth rad-inc))))))
 
 (defn ex3 []
   (let [cs (.. js/d3.scale linear (domain #js [0 10]) (range #js ["tomato" "#FAFAFA"]))]
@@ -133,13 +131,45 @@
                :selector      "#app"
                :data          (flower {:x      0
                                        :y      0
-                                       :depth  5
-                                       :r      400
-                                       :petals [8 40]
+                                       :depth  10
+                                       :r      600
+                                       :petals [3 21]
                                        :speed  [-0.01 0.01]})
                :default-style (styles> {:stroke "white" :stroke-width "2px" :fill #(cs (rand* 0 6))})})))
 
 (comment (ex3))
+
+(defn ->num [x]
+  (cond
+    (number? x) x
+    (and (vector? x) (= 2 (count x))) (apply rand* x)
+    (set? x) (rand-nth x)))
+
+(defn flower2 [{:keys [x y layers petals speed]}]
+  (map
+    (fn [[r pets spd]]
+      [x y (->num r) (->num (or pets petals)) (->num (or spd speed))])
+    layers))
+
+(defn ex4 []
+  (let [cs (.. js/d3.scale linear (domain #js [0 10]) (range #js ["tomato" "#FAFAFA"]))]
+    (rvoronoi {:width         800
+               :height        800
+               :selector      "#app"
+               :data          (flower2 {:x      0
+                                       :y      0
+                                       :layers [[10 3 0.001]
+                                                [50 6 0.005]
+                                                [100 12 -0.01]
+                                                [120 3 0.01]
+                                                [220 20 0.002]
+                                                [300 30 -0.005]
+                                                [310 10 -0.002]
+                                                [400 22 0.002]
+                                                [420 42 -0.002]]})
+               :default-style (styles> {:stroke "white" :stroke-width "2px" :fill #(cs (rand* 0 6))})})))
+
+(comment (ex4))
 
 (comment
 
@@ -171,3 +201,4 @@
          #js [-117.033 -26.515]
          #js [-52.238 -108.032]
          #js [51.893 -108.199]]))
+
