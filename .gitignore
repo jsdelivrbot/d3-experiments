@@ -8,4 +8,7 @@ pom.xml.asc
 /.lein-*
 /.nrepl-port
 .hgignore
+resources/public/js
+*.log
+*.iml
 .hg/
